@@ -1,0 +1,38 @@
+[
+    {
+      "id":1,
+      "title": "The Mysterious Island",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "author": "Jules Verne"
+    },
+    { 
+      "id":2,
+      "title": "Pride and Prejudice",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "author": "Jane Austen"
+    },
+    { "id":3,
+      "title": "1984",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "author": "George Orwell"
+    },
+    { 
+      "id":4,
+      "title": "To Kill a Mockingbird",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "author": "Harper Lee"
+    },
+    { 
+      "id":5,
+      "title": "The Great Gatsby",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "author": "F. Scott Fitzgerald"
+    },
+    { "id":6,
+  
+      "title": "Moby-Dick",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "author": "Herman Melville"
+    }
+  ]
+  
